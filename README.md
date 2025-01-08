@@ -86,7 +86,7 @@ Multimodal_Alignment_Model/
    - 2D Bounding Boxes:  
      ![Training loss graph](training_loss_lightning.png)
    - 3D Bounding Boxes:  
-     ![Example 3D Bounding Boxes](train_and_val_loss_graphs/sample_3d_results.png)
+     ![Example 3D Bounding Boxes](ScreenCapture_2024-12-17-22-15-44.png)
 
 ---
 
