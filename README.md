@@ -2,6 +2,8 @@
 
 This repository implements a multimodal alignment model to fuse LiDAR point clouds and RGB images for enhanced perception in autonomous systems. The model leverages pretrained encoders (`PointNet++` and `Vision Transformer`) and a Query-Based Transformer (Q-Former-inspired) for generating unified embeddings across modalities. It also includes a detection head for 2D and 3D object localization.
 
+![Model architecture](Picture.jpg)
+![Detection head](Picture1.jpg)
 ---
 
 ## File Structure
